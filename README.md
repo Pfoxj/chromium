@@ -4,6 +4,6 @@ TrashOS is an open-source OS that aims to be the worst OS ever for educational a
 
 The project's web site is [not here yet!].
 
-Documentation in the source is rooted in [docs/README.md](docs/README.md).
+Documentation For The OS Is In The [Wiki](/wiki).
 
 If you found a bug or want to reccomend something, please feel free to open a new issue.
