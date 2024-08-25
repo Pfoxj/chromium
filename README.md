@@ -2,7 +2,7 @@
 
 TrashOS is an open-source OS that aims to be the worst OS ever for educational and entertainment purposes.
 
-The project's website is at [not here yet!].
+The project's website is at [https://pfoxj.github.io/TrashOSWEB](https://pfoxj.github.io/TrashOSWEB/).
 
 Documentation For The OS Is In The [Wiki](https://github.com/Pfoxj/TrashOS/wiki).
 
